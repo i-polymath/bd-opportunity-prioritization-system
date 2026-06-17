@@ -1,0 +1,49 @@
+# ── Data files (confidential Genesis Analytics data) ──────────────────
+*.xlsx
+*.xls
+*.csv
+*.json
+
+# ── Serialized model artefacts ─────────────────────────────────────────
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.model
+
+# ── LDA model artefacts (gensim outputs) ──────────────────────────────
+lda_model*
+lda_dictionary*
+*.index
+*.npy
+
+# ── Power BI ───────────────────────────────────────────────────────────
+*.pbix
+*.pbit
+
+# ── Thesis documents ──────────────────────────────────────────────────
+*.pdf
+*.docx
+*.pptx
+
+# ── Python environment ────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+env/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# ── Jupyter notebooks (optional — remove this if you want to include them)
+*.ipynb
+.ipynb_checkpoints/
+
+# ── OS/editor clutter ─────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
