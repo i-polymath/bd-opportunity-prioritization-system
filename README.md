@@ -31,6 +31,7 @@ decision-makers to explore how rankings shift under different strategic postures
 
 <img width="785" height="706" alt="image" src="https://github.com/user-attachments/assets/749cdb21-d10d-43cf-a100-a39e67a59c1f" />
 
+
 The system uses a two-layer architecture with a clean separation between the
 analytical engine and the presentation layer.
 
