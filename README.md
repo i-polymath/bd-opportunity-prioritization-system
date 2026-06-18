@@ -23,7 +23,9 @@ active opportunity:
 
 A composite decision score integrates both layers using leadership-configurable weights,
 and three baseline scenarios (Balanced, Win-Maximizing, Growth-Maximizing) allow
-decision-makers to explore how rankings shift under different strategic postures.
+decision-makers to explore how rankings shift under different strategic postures. 
+
+Explore the [Decision Support System](https://app.powerbi.com/view?r=eyJrIjoiZmIyYjljNjUtN2RjNC00ZGM4LTgwN2YtZTFjMDUxNzVjNDZjIiwidCI6ImQ4YWJjM2VkLWE2ZTEtNGUzNi1iMGFhLTQ1NzA3Zjc5M2YxMiJ9) dashboard.
 
 ---
 
